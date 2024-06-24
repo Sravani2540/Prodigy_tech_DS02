@@ -1,5 +1,6 @@
 # Prodigy_tech_DS02
-![image](https://github.com/Sravani2540/Prodigy_tech_DS02/assets/172382612/3d767922-3bb3-42f5-9bd8-da3eb41ed445)
+![image](https://github.com/Sravani2540/Prodigy_tech_DS02/assets/172382612/8cbc2bb6-87db-43bf-be1c-e4357b4c0b19)
+
 Introduction: This repository contains the code and analysis for Task 2 of my Data Science internship at Prodigy Info Tech. For this task, I performed data cleaning and exploratory data analysis (EDA) on a dataset of my choice. I chose the Titanic dataset from Kaggle for this analysis.
 
 Dataset The Titanic dataset is a well-known dataset in the field of data science and contains information about passengers aboard the Titanic, including their demographics and survival status. This dataset is widely used for educational purposes and provides an opportunity to explore various data analysis techniques.
